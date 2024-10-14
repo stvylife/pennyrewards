@@ -1,5 +1,5 @@
 # pennyrewards
-tracking/earning commision while monitoring a budget
+Dev google webappscript to output html webview for tracking/earning commision while monitoring a budget
 
 Project Scope: Task Sidekick
 
